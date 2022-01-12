@@ -1,0 +1,13 @@
+table, th, td {
+    border:1px solid black;
+}
+.Left{
+    width: 400px;
+}
+.userInfo {
+    margin: auto;
+}
+.continuebutton{
+    margin-top: 30px;
+    margin-left: 700px;
+}
